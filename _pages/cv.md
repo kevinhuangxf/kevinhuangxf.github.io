@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+2023.09 - Present Ph.D in Department of Computer Science, Hong Kong Baptist University (supervised by Dr. Renjie WAN).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+2018.09 - 2019.10 Ms.C in Department of Electronic Engineering, City University of Hong Kong (supervised by Prof. Lai-Man Po).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2011.09 - 2015.06 BEng in Department of Electronic Engineering, Shenzhen University.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Working Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2021.05 - 2023.02  Research Engineer, SmartMore Company.
 
-Publications
+2019.10 - 2021.04  AI Developer, Pantheonlab Company.
+
+2015.07 - 2017.11  Android System Engineer, KTC Company.
+
+Intern Experiences
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2023.09 - Present, Reserach Intern, NVDIA AI Technology Center (NVAITC). 
