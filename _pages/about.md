@@ -17,25 +17,13 @@ Office: DLB-625
 
 Email: xiufenghuang@life.hkbu.edu.hk
 
-Education
+Bio
 ======
-2023.09 - Present Ph.D in Department of Computer Science, Hong Kong Baptist University (supervised by Dr. Renjie WAN).
+I'm a Ph.D. student in the Department of Computer Science at Hong Kong Baptist University, under the supervision of [Dr. Renjie Wan](https://wanrenjie.github.io/). 
 
-2018.09 - 2019.10 Ms.C in Department of Electronic Engineering, City University of Hong Kong (supervised by Prof. Lai-Man Po).
-
-2011.09 - 2015.06 BEng in Department of Electronic Engineering, Shenzhen University.
-
-Working Experiences
-======
-2021.05 - 2023.02  Research Engineer, SmartMore Company.
-
-2019.10 - 2021.04  AI Developer, Pantheonlab Company.
-
-2015.07 - 2017.11  Android System Engineer, KTC Company.
-
-Intern Experiences
-======
-2023.09 - Present, Reserach Intern, NVDIA AI Technology Center (NVAITC). 
+Previously I obtained my Master degree in Electronic Engineering from the City University of Hong Kong, supervised by [Prof. Lai-Man Po](https://scholars.cityu.edu.hk/en/persons/lai-man-po(1c2baaee-a00f-45ea-bd1d-27b052b5c2c5).html), and my Bachelor degree in Electronic Engineering from Shenzhen University.
+I also worked as a Research Engineer at SmartMore Company. 
+Currently, I'm a Research Intern at NVIDIA AI Technology Center (NVAITC).
 
 Publications
 ======
