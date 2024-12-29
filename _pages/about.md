@@ -41,7 +41,7 @@ Publications
 ======
 **XiuFeng Huang**, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan. 
 [GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.](https://kevinhuangxf.github.io/GaussianMarker/)
-Conference on Neural Information Processing Systems (NeurIPS), 20244.
+Conference on Neural Information Processing Systems (NeurIPS), 2024.
 
 **XiuFeng Huang**, Ka Chun Cheung, Simon See, Renjie Wan. 
 [GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields.](https://kevinhuangxf.github.io/GeometrySticker/)
