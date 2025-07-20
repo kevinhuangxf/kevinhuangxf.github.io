@@ -28,26 +28,26 @@ Currently, I'm a Research Intern at NVIDIA AI Technology Center (NVAITC).
 Publications
 ======
 
-[Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://kevinhuangxf.github.io/)
 **XiuFeng Huang**, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan.
+[Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://kevinhuangxf.github.io/)
 ACM International Conference on Multimedia (ACMMM), 2025.
 
-[GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.](https://kevinhuangxf.github.io/GaussianMarker/)
 **XiuFeng Huang**, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan. 
+[GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.](https://kevinhuangxf.github.io/GaussianMarker/)
 Conference on Neural Information Processing Systems (NeurIPS), 2024.
 
-[GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields.](https://kevinhuangxf.github.io/GeometrySticker/)
 **XiuFeng Huang**, Ka Chun Cheung, Simon See, Renjie Wan. 
+[GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields.](https://kevinhuangxf.github.io/GeometrySticker/)
 European Conference on Computer Vision (ECCV), 2024.
 
-[Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition (Oral)](https://ieeexplore.ieee.org/document/10446757)
 **XiuFeng Huang**, LaiMan Po, WeiFeng Ou. 
+[Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition (Oral)](https://ieeexplore.ieee.org/document/10446757)
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 
-[Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics (Oral)](https://ieeexplore.ieee.org/document/10448290/)
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**.	
+[Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics (Oral)](https://ieeexplore.ieee.org/document/10448290/)
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 
-[GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification.](https://ieeexplore.ieee.org/document/10428026)
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**, WingYin Yu, YuZhi Zhao. 
+[GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification.](https://ieeexplore.ieee.org/document/10428026)
 IEEE Transactions on Biometrics, Behavior, and Identity Science	(T-BIOM), 2024.	
