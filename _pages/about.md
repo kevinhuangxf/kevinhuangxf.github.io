@@ -27,6 +27,11 @@ Currently, I'm a Research Intern at NVIDIA AI Technology Center (NVAITC).
 
 Publications
 ======
+
+**XiuFeng Huang**, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan. 
+[Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction](https://kevinhuangxf.github.io/)
+ACM International Conference on Multimedia (ACMMM), 2025.
+
 **XiuFeng Huang**, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan. 
 [GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.](https://kevinhuangxf.github.io/GaussianMarker/)
 Conference on Neural Information Processing Systems (NeurIPS), 2024.
