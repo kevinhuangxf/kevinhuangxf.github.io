@@ -29,39 +29,25 @@ Publications
 ======
 
 [Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://kevinhuangxf.github.io/)
-
 **XiuFeng Huang**, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan.
-
 ACM International Conference on Multimedia (ACMMM), 2025.
 
 [GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.](https://kevinhuangxf.github.io/GaussianMarker/)
-
 **XiuFeng Huang**, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan. 
-
 Conference on Neural Information Processing Systems (NeurIPS), 2024.
 
 [GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields.](https://kevinhuangxf.github.io/GeometrySticker/)
-
 **XiuFeng Huang**, Ka Chun Cheung, Simon See, Renjie Wan. 
-
 European Conference on Computer Vision (ECCV), 2024.
 
 [Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition (Oral)](https://ieeexplore.ieee.org/document/10446757)
-
 **XiuFeng Huang**, LaiMan Po, WeiFeng Ou. 
-
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 
 [Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics (Oral)](https://ieeexplore.ieee.org/document/10448290/)
-
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**.	
-
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 
 [GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification.](https://ieeexplore.ieee.org/document/10428026)
-
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**, WingYin Yu, YuZhi Zhao. 
-
 IEEE Transactions on Biometrics, Behavior, and Identity Science	(T-BIOM), 2024.	
-
-
