@@ -29,7 +29,7 @@ Publications
 ======
 
 **XiuFeng Huang**, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan.
-[Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://kevinhuangxf.github.io/)
+[Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://arxiv.org/pdf/2507.14921)
 ACM International Conference on Multimedia (ACMMM), 2025.
 
 **XiuFeng Huang**, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan. 
