@@ -19,7 +19,7 @@ Email: xiufenghuang@life.hkbu.edu.hk
 
 Bio
 ======
-I'm a Ph.D. student in the Department of Computer Science at Hong Kong Baptist University, under the supervision of [Dr. Renjie Wan](https://wanrenjie.github.io/). 
+I'm a second year Ph.D. student in the Department of Computer Science at Hong Kong Baptist University, under the supervision of [Dr. Renjie Wan](https://wanrenjie.github.io/). 
 
 Previously I obtained my Master degree in Electronic Engineering from the City University of Hong Kong, supervised by [Prof. Lai-Man Po](https://scholars.cityu.edu.hk/en/persons/lai-man-po(1c2baaee-a00f-45ea-bd1d-27b052b5c2c5).html), and my Bachelor degree in Electronic Engineering from Shenzhen University.
 I also worked as a Research Engineer at SmartMore Company. 
