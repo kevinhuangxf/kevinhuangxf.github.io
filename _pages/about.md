@@ -28,6 +28,10 @@ Currently, I'm a Research Intern at NVIDIA AI Technology Center (NVAITC).
 Publications
 ======
 
+**XiuFeng Huang**, Ziyuan Luo, Ruofei Wang, Qi Song, Renjie Wan.
+[MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure.](kevinhuangxf.github.io)
+ACM International Conference on Multimedia (ACMMM, oral), 2025.
+
 **XiuFeng Huang**, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan.
 [Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://arxiv.org/pdf/2507.14921)
 ACM International Conference on Multimedia (ACMMM), 2025.
@@ -41,12 +45,12 @@ Conference on Neural Information Processing Systems (NeurIPS), 2024.
 European Conference on Computer Vision (ECCV), 2024.
 
 **XiuFeng Huang**, LaiMan Po, WeiFeng Ou. 
-[Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition (Oral)](https://ieeexplore.ieee.org/document/10446757)
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
+[Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition](https://ieeexplore.ieee.org/document/10446757)
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, oral), 2024.
 
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**.	
 [Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics (Oral)](https://ieeexplore.ieee.org/document/10448290/)
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, oral), 2024.
 
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**, WingYin Yu, YuZhi Zhao. 
 [GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification.](https://ieeexplore.ieee.org/document/10428026)
