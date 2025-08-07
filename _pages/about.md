@@ -49,7 +49,7 @@ European Conference on Computer Vision (ECCV), 2024.
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, oral), 2024.
 
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**.	
-[Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics (Oral)](https://ieeexplore.ieee.org/document/10448290/)
+[Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics](https://ieeexplore.ieee.org/document/10448290/)
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, oral), 2024.
 
 WeiFeng Ou, LaiMan Po, **XiuFeng Huang**, WingYin Yu, YuZhi Zhao. 
