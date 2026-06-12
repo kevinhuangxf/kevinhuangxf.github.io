@@ -28,34 +28,34 @@ Currently, I'm a Research Intern at NVIDIA AI Technology Center (NVAITC).
 Publications
 ======
 
-Yuefan Shen, Yican Dong, **Xiufeng Huang**, Zhongtian Zheng, Youyi Zheng, Kui Wu.
-HairLRM: Strand-based Hair Modeling via Large Reconstruction Models.
+HairLRM: Strand-based Hair Modeling via Large Reconstruction Models.<br>
+Yuefan Shen, Yican Dong, **Xiufeng Huang**, Zhongtian Zheng, Youyi Zheng, Kui Wu.<br>
 ACM SIGGRAPH 2026.
 
-**XiuFeng Huang**, Ziyuan Luo, Ruofei Wang, Qi Song, Renjie Wan.
-[MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure.](kevinhuangxf.github.io)
+[MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure.](kevinhuangxf.github.io)<br>
+**XiuFeng Huang**, Ziyuan Luo, Ruofei Wang, Qi Song, Renjie Wan.<br>
 ACM International Conference on Multimedia (ACMMM, oral), 2025.
 
-**XiuFeng Huang**, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan.
-[Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://arxiv.org/pdf/2507.14921)
+[Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction.](https://arxiv.org/pdf/2507.14921)<br>
+**XiuFeng Huang**, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan.<br>
 ACM International Conference on Multimedia (ACMMM), 2025.
 
-**XiuFeng Huang**, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan. 
-[GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.](https://kevinhuangxf.github.io/GaussianMarker/)
+[GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.](https://kevinhuangxf.github.io/GaussianMarker/)<br>
+**XiuFeng Huang**, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan.<br>
 Conference on Neural Information Processing Systems (NeurIPS), 2024.
 
-**XiuFeng Huang**, Ka Chun Cheung, Simon See, Renjie Wan. 
-[GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields.](https://kevinhuangxf.github.io/GeometrySticker/)
+[GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields.](https://kevinhuangxf.github.io/GeometrySticker/)<br>
+**XiuFeng Huang**, Ka Chun Cheung, Simon See, Renjie Wan.<br>
 European Conference on Computer Vision (ECCV), 2024.
 
-**XiuFeng Huang**, LaiMan Po, WeiFeng Ou. 
-[Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition](https://ieeexplore.ieee.org/document/10446757)
+[Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition](https://ieeexplore.ieee.org/document/10446757)<br>
+**XiuFeng Huang**, LaiMan Po, WeiFeng Ou.<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, oral), 2024.
 
-WeiFeng Ou, LaiMan Po, **XiuFeng Huang**.	
-[Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics](https://ieeexplore.ieee.org/document/10448290/)
+[Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics](https://ieeexplore.ieee.org/document/10448290/)<br>
+WeiFeng Ou, LaiMan Po, **XiuFeng Huang**.<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, oral), 2024.
 
-WeiFeng Ou, LaiMan Po, **XiuFeng Huang**, WingYin Yu, YuZhi Zhao. 
-[GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification.](https://ieeexplore.ieee.org/document/10428026)
+[GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification.](https://ieeexplore.ieee.org/document/10428026)<br>
+WeiFeng Ou, LaiMan Po, **XiuFeng Huang**, WingYin Yu, YuZhi Zhao.<br>
 IEEE Transactions on Biometrics, Behavior, and Identity Science	(T-BIOM), 2024.	
