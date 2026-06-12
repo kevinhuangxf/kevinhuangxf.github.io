@@ -28,6 +28,10 @@ Currently, I'm a Research Intern at NVIDIA AI Technology Center (NVAITC).
 Publications
 ======
 
+Yuefan Shen, Yican Dong, **Xiufeng Huang**, Zhongtian Zheng, Youyi Zheng, Kui Wu.
+HairLRM: Strand-based Hair Modeling via Large Reconstruction Models.
+ACM SIGGRAPH 2026.
+
 **XiuFeng Huang**, Ziyuan Luo, Ruofei Wang, Qi Song, Renjie Wan.
 [MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure.](kevinhuangxf.github.io)
 ACM International Conference on Multimedia (ACMMM, oral), 2025.
